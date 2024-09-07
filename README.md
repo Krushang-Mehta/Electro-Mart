@@ -1,2 +1,2 @@
 # Electro-Mart
-This is an e-commerce Website project named as 'Electro-Mart'. Which is developed by using HTML,CSS,JavaScript,PHP&amp;SQL Database. This website allows user to register as customer or vendoe(seller). 
+This is an e-commerce Website project named as 'Electro-Mart'. Which is developed by using HTML,CSS,JavaScript,PHP & SQL Database.It also includes Bootstrap cdns. This website allows user to register as customer or vendor(seller).Which allows customer to make their shopping cart & vendor to register their products for sale into database. It allows to cetagorize products by brand name.
